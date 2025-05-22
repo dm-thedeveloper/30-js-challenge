@@ -6,7 +6,7 @@
 <ol>
 
 <li>
-📁 <b> mini codes</b> <br>
+<a href="https://github.com/dm-thedeveloper/30-js-challenge/tree/main/My%20Learning" >📁 <b> mini codes</b></a> <br>
 <ul>
 <li>🟨 Age_calculator.js</li>
 <li>🟨 Find_with_first_letter.js</li>
@@ -15,14 +15,14 @@
 </li>
 
 <li>
- <a href=""> 📁 <b> My Learning</b> </a> <br>
+ <a href="https://github.com/dm-thedeveloper/30-js-challenge/tree/main/mini%20code"> 📁 <b> My Learning</b> </a> <br>
 <ul>
 <li>🟨 Here the files of js  topics </li>
 </ul>
 </li>
 </ol>
 
-root files of challenge days
+<a href="https://github.com/dm-thedeveloper/30-js-challenge/blob/main/1%20DayOne.js">root files of challenge days</a>
 <ul>
 <li> 🟨 </li>
 <li> 🟨 </li>
